@@ -1,9 +1,9 @@
 ARGS ?=
-
 MODE ?= dev
-CC ?= gcc-14
-MKDIR_P ?= mkdir -p
-RM_RF ?= rm -rf
+
+CC := gcc-14
+MKDIR_P := mkdir -p
+RM_RF := rm -rf
 
 TARGET := ark
 LIBS :=
