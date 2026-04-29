@@ -1,0 +1,4 @@
+If:
+    PathMatch: src/ark.h$
+CompileFlags:
+    Add: [-DARK_IMPLEMENTATION]
