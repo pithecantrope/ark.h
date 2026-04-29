@@ -1,0 +1,10 @@
+[
+    {
+        "label": "Run",
+        "command": "make run",
+        "args": [],
+        "cwd": "$ZED_WORKTREE_ROOT",
+        "show_summary": false,
+        "show_command": false
+    }
+]
