@@ -1,0 +1,13 @@
+-std=c23
+-Wall
+-Wextra
+-Wpedantic
+-Wcast-qual
+-Wconversion
+-Wdouble-promotion
+-Wfloat-equal
+-Wformat
+-Wshadow
+-Wswitch-default
+-Wswitch-enum
+-Wundef
